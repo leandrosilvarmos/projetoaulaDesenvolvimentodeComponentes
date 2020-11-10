@@ -1,0 +1,33 @@
+/*  condominio view */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+.jumbotron {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlrTN7oyBsKh8Bv_uah46cLjU8Wq88rH-ZRQ&usqp=CAU');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.btn-circle {
+	border-radius: 30px;
+}
+
+.latest-news {
+	border-bottom: .25rem solid transparent;
+	border-bottom-color: #007bff;
+}
+
+footer {
+	background-color: rgb(82, 82, 82);
+}
